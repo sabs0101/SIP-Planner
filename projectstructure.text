@@ -1,0 +1,18 @@
+SIPPlannerJava/
+│
+├─ src/main/java/com/sipplanner/
+│   ├─ SipPlannerApplication.java
+│   ├─ controller/
+│   │   └─ InvestmentController.java
+│   └─ model/
+│       ├─ InvestmentResult.java
+│       └─ Bank.java
+│
+├─ src/main/resources/static/
+│   ├─ style.css
+│   └─ script.js
+│
+├─ src/main/resources/templates/
+│   └─ index.html
+│
+├─ pom.xml
